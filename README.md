@@ -1,2 +1,2 @@
-# OnePlace-E-commercer-Sara
-Un Ecommerce acerca de ropa 
+# OnePlace-Ecommerce
+One Place es un ecommerce de ropa
